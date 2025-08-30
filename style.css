@@ -1,0 +1,41 @@
+body{
+    text-align : center;
+}
+
+.inrc{
+    margin-bottom: 2.5rem;
+    margin-left: 2.5rem;
+    height: 150px;
+    width: 150px;
+    padding: 15px;
+    border:5px solid black;
+    border-radius: 25px;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.red{
+    background-color: rgb(249, 57, 57);
+    
+}
+
+.green{
+    background-color: rgb(98, 239, 98);
+}
+
+.yellow{
+    background-color: rgb(247, 247, 80);
+}
+
+.blue{
+    background-color: rgb(72, 72, 238);
+}
+
+.flash{
+    background-color: white;
+}
